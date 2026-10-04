@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>ConnexGUI</title>
         <link>https://fabioov.github.io/ConnexGUI-updates/appcast.xml</link>
         <description>Atualizações do ConnexGUI</description>
         <language>pt-BR</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 04 Oct 2026 22:47:44 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabioov/ConnexGUI-updates/releases/download/v1.0.0/ConnexGUI-1.0.0.dmg" length="21613312" type="application/octet-stream" sparkle:edSignature="zX9vb3ZU9JvG7otD0U9CF/2GHlv4/HPWtpa5VAhgFc2S4f147Z+MRQoUMoymSmBgsmzrNxgn0DkHBrPr9YlXAQ==" />
+        </item>
     </channel>
 </rss>

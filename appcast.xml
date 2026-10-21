@@ -6,6 +6,14 @@
         <description>Atualizações do ConnexGUI</description>
         <language>pt-BR</language>
         <item>
+            <title>1.0.16</title>
+            <pubDate>Wed, 21 Oct 2026 18:52:22 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fabioov/ConnexGUI-updates/releases/download/v1.0.16/ConnexGUI-1.0.16.dmg" length="22821679" type="application/octet-stream" sparkle:edSignature="ySLj2YFVgMxw2J8ElpItahzC6uK52jXDWGYCJqPcbdbPWQen6TH0il+ySVSdOWDuiIfDGdOz54z8ALSVMQEfCQ==" />
+        </item>
+        <item>
             <title>1.0.15</title>
             <pubDate>Tue, 20 Oct 2026 12:21:29 +0000</pubDate>
             <sparkle:version>19</sparkle:version>
